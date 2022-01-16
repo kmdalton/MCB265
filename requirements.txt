@@ -2,4 +2,4 @@ numpy
 scipy
 matplotlib
 reciprocalspaceship
-mpl_interactions["jupyter"]
+mpl_interactions[jupyter]
