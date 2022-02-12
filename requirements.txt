@@ -2,4 +2,5 @@ numpy
 scipy
 matplotlib
 reciprocalspaceship
+seaborn
 mpl_interactions[jupyter]
