@@ -4,3 +4,4 @@ matplotlib
 reciprocalspaceship
 seaborn
 mpl_interactions[jupyter]
+pymc3
